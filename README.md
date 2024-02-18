@@ -30,6 +30,10 @@ Se você deseja contribuir para o aprimoramento desta ferramenta, fique à vonta
 * Bibliotecas de Machine Learning (scikit-learn)
 * Ferramentas de análise de dados (pandas, numpy)
 * Streamlit
+  
+# Fonte de Dados
+
+As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro. Se puxar os dados direto do Kaggle pode ser que encontre resultados diferentes dos meus, afinal as bases de dados podem ter sido atualizadas.
 
 # Autores
 Este projeto foi desenvolvido por Douglas Silva como parte de um projeto pessoal.
